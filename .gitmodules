@@ -1,0 +1,6 @@
+[submodule "player"]
+	path = player
+	url = https://github.com/kastwey/html5-accessible-audio-player
+[submodule "tzCon"]
+	path = tzCon
+	url = https://github.com/derekriemer/tzCon
